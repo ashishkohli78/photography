@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5, h6, p{
 /********************** Header styling *********************/
 
 .header{
+    padding-top: 5px;
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/header.jpg") center/cover no-repeat;
     color: #fff;
