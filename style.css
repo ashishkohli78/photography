@@ -713,3 +713,13 @@ blockquote span{
         grid-row-gap: 20px;
     }
 }
+
+.elv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ins{
+    margin-left: 30px;
+}
